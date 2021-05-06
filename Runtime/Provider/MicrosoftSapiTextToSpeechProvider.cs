@@ -3,9 +3,9 @@ using System.IO;
 using SpeechLib;
 using UnityEngine;
 using System.Threading.Tasks;
-using Innoactive.Creator.Core.Internationalization;
+using VPG.Creator.Core.Internationalization;
 
-namespace Innoactive.Creator.TextToSpeech
+namespace VPG.Creator.TextToSpeech
 {
     /// <summary>
     /// Training TTS provider which uses Microsoft SAPI to generate audio.

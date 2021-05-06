@@ -3,7 +3,7 @@ using System.IO;
 using NAudio.Wave;
 using UnityEngine;
 
-namespace Innoactive.Creator.TextToSpeech
+namespace VPG.Creator.TextToSpeech
 {
     /// <summary>
     /// This AudioConverter uses NAudio to convert audios.

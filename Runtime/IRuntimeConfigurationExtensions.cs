@@ -1,7 +1,7 @@
 ﻿using System;
-using Innoactive.Creator.Core.Configuration;
+using VPG.Creator.Core.Configuration;
 
-namespace Innoactive.Creator.TextToSpeech
+namespace VPG.Creator.TextToSpeech
 {
     /// <summary>
     /// TextToSpeech extensions methods for <see cref="IRuntimeConfiguration"/>.
