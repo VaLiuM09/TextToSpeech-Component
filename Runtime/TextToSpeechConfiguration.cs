@@ -1,10 +1,10 @@
 using System;
 using System.IO;
-using Innoactive.Creator.Core.Configuration;
-using Innoactive.Creator.Core.Runtime.Utils;
+using VPG.Creator.Core.Configuration;
+using VPG.Creator.Core.Runtime.Utils;
 using UnityEngine;
 
-namespace Innoactive.Creator.TextToSpeech
+namespace VPG.Creator.TextToSpeech
 {
     public class TextToSpeechConfiguration : SettingsObject<TextToSpeechConfiguration>
     {

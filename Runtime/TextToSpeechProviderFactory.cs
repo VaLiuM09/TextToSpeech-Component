@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Innoactive.Creator.Unity;
+using VPG.Creator.Unity;
 
-namespace Innoactive.Creator.TextToSpeech
+namespace VPG.Creator.TextToSpeech
 {
     /// <summary>
     /// This factory creates and provides <see cref="ITextToSpeechProvider"/>s.

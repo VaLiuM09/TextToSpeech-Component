@@ -1,10 +1,10 @@
 ﻿using System;
-using Innoactive.Creator.TextToSpeech;
-using Innoactive.CreatorEditor.UI;
+using VPG.Creator.TextToSpeech;
+using VPG.CreatorEditor.UI;
 using UnityEditor;
 using UnityEngine;
 
-namespace Innoactive.CreatorEditor.TextToSpeech.UI.ProjectSettings
+namespace VPG.CreatorEditor.TextToSpeech.UI.ProjectSettings
 {
     /// <summary>
     /// Provides text to speech settings.

@@ -1,8 +1,8 @@
-﻿using Innoactive.Creator.Core.Internationalization;
+﻿using VPG.Creator.Core.Internationalization;
 using UnityEngine;
 using UnityEngine.Networking;
 
-namespace Innoactive.Creator.TextToSpeech
+namespace VPG.Creator.TextToSpeech
 {
     /// <summary>
     /// Uses the Watson text to speech api

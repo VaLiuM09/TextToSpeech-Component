@@ -1,8 +1,8 @@
 ﻿using System.Text;
 using System.Security.Cryptography;
-using Innoactive.Creator.Core.Internationalization;
+using VPG.Creator.Core.Internationalization;
 
-namespace Innoactive.Creator.TextToSpeech
+namespace VPG.Creator.TextToSpeech
 {
     public static class TextToSpeechUtils
     {

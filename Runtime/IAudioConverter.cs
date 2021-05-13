@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Innoactive.Creator.TextToSpeech
+namespace VPG.Creator.TextToSpeech
 {
     /// <summary>
     ///  Allows to convert audio into or out of AudioClips

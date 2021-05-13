@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 using UnityEditor;
-using Innoactive.Creator.Core.Utils;
-using Innoactive.Creator.TextToSpeech;
+using VPG.Creator.Core.Utils;
+using VPG.Creator.TextToSpeech;
 
-namespace Innoactive.CreatorEditor.TextToSpeech.UI
+namespace VPG.CreatorEditor.TextToSpeech.UI
 {
     /// <summary>
     /// This class draws list of <see cref="ITextToSpeechProvider"/> in <see cref="textToSpeechConfiguration"/>.
