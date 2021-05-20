@@ -23,7 +23,7 @@ namespace VPG.Editor.TextToSpeech.UI.ProjectSettings
         /// <inheritdoc/>
         public void OnGUI(string searchContext)
         {
-            GUILayout.Label("Configuration for your Text to Speech provider.", CreatorEditorStyles.ApplyPadding(CreatorEditorStyles.Label, 0));
+            GUILayout.Label("Configuration for your Text to Speech provider.", VPGEditorStyles.ApplyPadding(VPGEditorStyles.Label, 0));
         
             GUILayout.Space(8);
         
@@ -32,7 +32,7 @@ namespace VPG.Editor.TextToSpeech.UI.ProjectSettings
 
             GUILayout.Space(8);
         
-            CreatorGUILayout.DrawLink("Need Help? Visit our documentation", "https://developers.innoactive.de/documentation/creator/latest/articles/developer/12-text-to-speech.html", 0);
+            VPGGUILayout.DrawLink("Need Help? Visit our documentation", "https://developers.innoactive.de/documentation/creator/latest/articles/developer/12-text-to-speech.html", 0);
         }
         
         ~TextToSpeechSectionProvider()
