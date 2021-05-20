@@ -1,8 +1,8 @@
 ﻿using System.Text;
 using System.Security.Cryptography;
-using VPG.Creator.Core.Internationalization;
+using VPG.Core.Internationalization;
 
-namespace VPG.Creator.TextToSpeech
+namespace VPG.TextToSpeech
 {
     public static class TextToSpeechUtils
     {

@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Linq;
 using UnityEditor;
-using VPG.Creator.Core.Utils;
-using VPG.Creator.TextToSpeech;
+using VPG.Core.Utils;
+using VPG.TextToSpeech;
 
-namespace VPG.CreatorEditor.TextToSpeech.UI
+namespace VPG.Editor.TextToSpeech.UI
 {
     /// <summary>
     /// This class draws list of <see cref="ITextToSpeechProvider"/> in <see cref="textToSpeechConfiguration"/>.
     /// </summary>
     [CustomEditor(typeof(TextToSpeechConfiguration))]
-    public class TextToSpeechConfigurationEditor : Editor
+    public class TextToSpeechConfigurationEditor : UnityEditor.Editor
     {
         private TextToSpeechConfiguration textToSpeechConfiguration;
         private string[] providers = { "Empty" };

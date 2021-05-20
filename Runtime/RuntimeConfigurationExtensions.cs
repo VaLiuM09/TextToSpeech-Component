@@ -1,6 +1,6 @@
-﻿using VPG.Creator.Core.Configuration;
+﻿using VPG.Core.Configuration;
 
-namespace VPG.Creator.TextToSpeech
+namespace VPG.TextToSpeech
 {
     /// <summary>
     /// TextToSpeech extensions methods for <see cref="BaseRuntimeConfiguration"/>.

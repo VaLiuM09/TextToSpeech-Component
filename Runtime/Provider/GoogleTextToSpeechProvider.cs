@@ -1,7 +1,7 @@
-﻿using VPG.Creator.Core.Internationalization;
+﻿using VPG.Core.Internationalization;
 using UnityEngine.Networking;
 
-namespace VPG.Creator.TextToSpeech
+namespace VPG.TextToSpeech
 {
     /// <summary>
     /// Uses the Google text to speech api

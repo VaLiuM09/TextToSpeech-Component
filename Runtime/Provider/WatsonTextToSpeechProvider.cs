@@ -1,8 +1,8 @@
-﻿using VPG.Creator.Core.Internationalization;
+﻿using VPG.Core.Internationalization;
 using UnityEngine;
 using UnityEngine.Networking;
 
-namespace VPG.Creator.TextToSpeech
+namespace VPG.TextToSpeech
 {
     /// <summary>
     /// Uses the Watson text to speech api
