@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using UnityEngine;
 
-namespace VPG.Creator.TextToSpeech
+namespace VPG.TextToSpeech
 {
     /// <summary>
     /// TextToSpeechProvider allows to convert text to AudioClips.

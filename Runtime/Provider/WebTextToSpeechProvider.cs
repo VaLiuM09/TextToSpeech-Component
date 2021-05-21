@@ -1,11 +1,11 @@
 using System;
 using System.Collections;
 using System.Threading.Tasks;
-using VPG.Creator.Unity;
+using VPG.Unity;
 using UnityEngine;
 using UnityEngine.Networking;
 
-namespace VPG.Creator.TextToSpeech
+namespace VPG.TextToSpeech
 {
     /// <summary>
     /// Abstract WebTextToSpeechProvider which can be used for web based provider.

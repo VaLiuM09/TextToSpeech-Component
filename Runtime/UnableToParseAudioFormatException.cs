@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VPG.Creator.TextToSpeech
+namespace VPG.TextToSpeech
 {
     public class UnableToParseAudioFormatException : Exception
     {

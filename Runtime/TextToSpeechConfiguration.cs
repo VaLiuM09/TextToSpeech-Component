@@ -1,10 +1,10 @@
 using System;
 using System.IO;
-using VPG.Creator.Core.Configuration;
-using VPG.Creator.Core.Runtime.Utils;
+using VPG.Core.Configuration;
+using VPG.Core.Runtime.Utils;
 using UnityEngine;
 
-namespace VPG.Creator.TextToSpeech
+namespace VPG.TextToSpeech
 {
     public class TextToSpeechConfiguration : SettingsObject<TextToSpeechConfiguration>
     {

@@ -1,12 +1,12 @@
 using System;
 using UnityEngine;
 using System.Runtime.Serialization;
-using VPG.Creator.Core.Audio;
-using VPG.Creator.Core.Attributes;
-using VPG.Creator.Core.Configuration;
-using VPG.Creator.Core.Internationalization;
+using VPG.Core.Audio;
+using VPG.Core.Attributes;
+using VPG.Core.Configuration;
+using VPG.Core.Internationalization;
 
-namespace VPG.Creator.TextToSpeech.Audio
+namespace VPG.TextToSpeech.Audio
 {
     /// <summary>
     /// This class retrieves and stores AudioClips generated based in a provided localized text. 
